@@ -14,4 +14,4 @@ spec:
       - values-prod.yaml
     path: helm
     repoURL: https://github.com/bigandyox/helm_exercise
-    targetRevision: HEAD
+    targetRevision: main
