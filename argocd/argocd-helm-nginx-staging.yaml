@@ -12,6 +12,6 @@ spec:
     helm:
       valueFiles:
       - values-staging.yaml
-    path: ./
+    path: helm
     repoURL: https://github.com/bigandyox/helm_exercise
     targetRevision: HEAD
