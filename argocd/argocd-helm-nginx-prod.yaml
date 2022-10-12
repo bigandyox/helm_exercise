@@ -13,5 +13,5 @@ spec:
       valueFiles:
       - values-prod.yaml
     path: .\
-    repoURL: https://https://github.com/bigandyox/helm_exercise
+    repoURL: https://github.com/bigandyox/helm_exercise
     targetRevision: HEAD
